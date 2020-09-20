@@ -1,3 +1,4 @@
+#include<stdio.h>
 void insert_details();
 void view_All();
 void find();
